@@ -1,5 +1,5 @@
 ---
-title: "Analisis Pengaruh Nilai Tukar Rupiah Terhadap Volume Ekspor Indonesia Ke RRT (Tahun 2018-2019)"
+title: "Analisis Pengaruh Nilai Tukar Rupiah Terhadap Volume Ekspor Indonesia Ke RRT (Tahun 2018-2023)"
 subtitle: "Metode Penelitian Politeknik APP Jakarta"
 author: "Anindya Belva Carissa"
 date: 2025-01-12
